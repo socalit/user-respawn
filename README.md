@@ -2,7 +2,7 @@
 
 A simple, menu-driven Windows batch script to restore user profile data from backups created by [`userdump`](https://github.com/SoCalIT/userdump). Designed for IT pros, techs, and field support needing fast profile recovery on Windows 11 systems.
 
-> Built by [@SoCal_IT](https://github.com/SoCalIT) to complement `userdump.bat`.
+> Built by [@SoCalIT](https://github.com/SoCalIT) to complement `userdump.bat`.
 
 ---
 
@@ -57,4 +57,4 @@ This version of `user-respawn` uses `/COPY:DAT` to avoid NTFS permission issues,
 
 ---
 
-**Made by [@SoCal_IT](https://github.com/SoCalIT)**
+**Made by [@SoCalIT](https://github.com/SoCalIT)**
